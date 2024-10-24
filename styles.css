@@ -54,6 +54,8 @@ body {
     height: auto;  
     width: 300px;  
     object-fit: cover;  
+    border: 2px solid #464646;
+    border-radius: 5px; 
 }
 
 .text-container {
